@@ -1,7 +1,7 @@
-<h2>Seja bem-vindo ao meu GitHub! Eu sou o João Imamura, engenheiro de back-end/dados.</h2>
+<h2>Hey, welcome! I'm João Pedro Imamura, a brazilian Data/Backend Engineer 😝</h2>
 <p align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=joaopedroimamura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroimamura&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="48%" height="140em" src="https://github-readme-stats.vercel.app/api?username=joaopedroimamura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroimamura&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 <br>
 <p align="center"><img src="https://skills.thijs.gg/icons?i=c,css,html,java,js,py"></p>
