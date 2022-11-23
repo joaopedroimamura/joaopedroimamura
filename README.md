@@ -14,3 +14,6 @@
   <a href="https://wa.me/5511976327337" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </p>
 
+<p align="center">
+  <img alt="gif-avatar" height="250" src="./files/gifs/gif-avatar.gif">
+</p>
